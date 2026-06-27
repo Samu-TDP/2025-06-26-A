@@ -1,6 +1,6 @@
 [client]
 user=root
-password=root
+password=SamuMariaDB04!!
 host=127.0.0.1
-database=Formula1
+database=formula1
 raise_on_warnings=True
